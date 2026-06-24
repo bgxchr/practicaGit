@@ -1,0 +1,503 @@
+[
+    {
+        "id": 1,
+        "model": "2024 e-tron® GT",
+        "bodystyle": "Electrified",
+        "price": "106,500€",
+        "img":"../img/electrified/2024 e-tron gt.png",
+        "qty": 1 
+    },
+    {
+        "id": 2,
+        "model": "2024 RS e-tron® GT",
+        "bodystyle": "Electrified",
+        "price":"147,100€",
+        "img":"../img/electrified/2024 rs e-tron gt.png",
+        "qty": 1
+ 
+    },
+    {
+        "id":3 ,
+        "model": "2024 Audi Q4 e-tron®",
+        "bodystyle": "Electrified",
+        "price":"55,200€",
+        "img":"../img/electrified/2024 q4 e-tron.png",
+        "qty": 1
+ 
+    },
+    {
+        "id": 4,
+        "model": "2024 Audi Q4 Sportback e-tron®",
+        "bodystyle": "Electrified",
+        "price":"58.200€",
+        "img":"../img/electrified/2024 q4 e-tron sportback.png",
+        "qty": 1
+ 
+    },
+    {
+        "id": 5,
+        "model": "2024 Audi Q8 e-tron®",
+        "bodystyle": "Electrified",
+        "price":"74,400€",
+        "img":"../img/electrified/2024 q8 e-tron.png",
+        "qty": 1
+ 
+    },
+    {
+        "id": 6,
+        "model": "2024 Audi Q8 Sportback e-tron®",
+        "bodystyle": "Electrified",
+        "price":"129.99€",
+        "img":"../img/electrified/2024 q8 e.tron sportback.png",
+        "qty": 1
+ 
+    },
+    {
+        "id": 7,
+        "model": "2024 Audi SQ8 e-tron®",
+        "bodystyle": "Electrified",
+        "price":"89,800€",
+        "img":"../img/electrified/2024 sq8 e-tron.png",
+        "qty": 1
+    },
+    {
+        "id": 8,
+        "model": "2024 Audi SQ8 Sportback e-tron®",
+        "bodystyle": "Electrified",
+        "price":"92,600€",
+        "img":"../img/electrified/2024 sq8 e-tron sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 9,
+        "model": "2024 Audi Q5",
+        "bodystyle": "Electrified",
+        "price":"45,300€",
+        "img":"../img/electrified/2024 q5.png",
+        "qty": 1
+    },
+    {
+        "id": 10,
+        "model": "2024 Audi Q4 e-tron®",
+        "bodystyle": "SUV",
+        "price":"55,200€",
+        "img":"../img/electrified/2024 q4 e-tron.png",
+        "qty": 1
+    },
+    {
+        "id": 11,
+        "model": "2024 Audi Q4 Sportback e-tron®",
+        "bodystyle": "SUV",
+        "price":"58,200€",
+        "img":"../img/electrified/2024 q4 e-tron sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 12,
+        "model": "2024 Audi Q8 e-tron®",
+        "bodystyle": "SUV",
+        "price":"77,800€",
+        "img":"../img/electrified/2024 q8 e-tron.png",
+        "qty": 1
+    },
+    {
+        "id": 13,
+        "model": "2024 Audi SQ8 e-tron®",
+        "bodystyle": "SUV",
+        "price":"89,800€",
+        "img":"../img/electrified/2024 sq8 e-tron.png",
+        "qty": 1
+    },
+    {
+        "id": 14,
+        "model": "2024 Audi SQ8 Sportback e-tron®",
+        "bodystyle": "SUV",
+        "price":"92,600€",
+        "img":"../img/suvs/sq8 sportback etron .png",
+        "qty": 1
+    },
+    {
+        "id": 15,
+        "model": "2024 Audi Q3",
+        "bodystyle": "SUV",
+        "price":"37,400€",
+        "img":"../img/suvs/q3.png",
+        "qty": 1
+    },
+    {
+        "id": 16,
+        "model": "2024 Audi Q5 Sportback",
+        "bodystyle": "SUV",
+        "price":"52,200€",
+        "img":"../img/suvs/q5 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 17,
+        "model": "2024 Audi SQ5",
+        "bodystyle": "SUV",
+        "price":"57,700€",
+        "img":"../img/suvs/sq5.png",
+        "qty": 1
+    },
+    {
+        "id": 18,
+        "model": "2024 Audi SQ5 Sportback",
+        "bodystyle": "SUV",
+        "price":"61,100€",
+        "img":"../img/suvs/sq5 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 19,
+        "model": "2024 Audi Q7",
+        "bodystyle": "SUV",
+        "price":"60,500€",
+        "img":"../img/suvs/2024-q7-side.png",
+        "qty": 1
+    },
+    {
+        "id": 20,
+        "model": "2024 Audi SQ7",
+        "bodystyle": "SUV",
+        "price":"90,800€",
+        "img":"../img/suvs/2024-sq7-side.png",
+        "qty": 1
+    },
+    {
+        "id": 21,
+        "model": "2024 Audi Q8",
+        "bodystyle": "SUV",
+        "price":"73,700€",
+        "img":"../img/suvs/q8.png",
+        "qty": 1
+    },
+    {
+        "id": 22,
+        "model": "2024 Audi SQ8",
+        "bodystyle": "SUV",
+        "price":"96,600€",
+        "img":"../img/suvs/sq8.png",
+        "qty": 1
+    },
+    {
+        "id": 23,
+        "model": "2024 Audi RS Q8",
+        "bodystyle": "SUV",
+        "price":"125,800€",
+        "img":"../img/suvs/rs q8.png",
+        "qty": 1
+    },
+    {
+        "id": 24,
+        "model": "2024 Audi e-tron® GT",
+        "bodystyle": "Sedans & Wagons",
+        "price":"106,500€",
+        "img":"../img/sedans & wagons/2024 etron gr.png",
+        "qty": 1
+    },
+    {
+        "id": 25,
+        "model": "2024 Audi RS e-tron® GT",
+        "bodystyle": "Sedans & Wagons",
+        "price":"147,100€",
+        "img":"../img/sedans & wagons/2024 rs etron.png",
+        "qty": 1
+    },
+    {
+        "id": 26,
+        "model": "2024 Audi A3",
+        "bodystyle": "Sedans & Wagons",
+        "price":"35,800€",
+        "img":"../img/sedans & wagons/2024 a3.png",
+        "qty": 1
+    },
+    {
+        "id": 27,
+        "model": "2024 Audi S3",
+        "bodystyle": "Sedans & Wagons",
+        "price":"47,400€",
+        "img":"../img/sedans & wagons/2024 s3.png",
+        "qty": 1
+    },
+    {
+        "id": 28,
+        "model": "2024 RS 3",
+        "bodystyle": "Sedans & Wagons",
+        "price":"62,300€",
+        "img":"../img/sedans & wagons/rs3 2024.png",
+        "qty": 1
+    },
+    {
+        "id": 29,
+        "model": "2024 Audi A4 Sedan",
+        "bodystyle": "Sedans & Wagons",
+        "price":"41,900€",
+        "img":"../img/sedans & wagons/2024 a4 sedan.png",
+        "qty": 1
+    },
+    {
+        "id": 30,
+        "model": "2024 Audi A4 allroad® quattro®",
+        "bodystyle": "Sedans & Wagons",
+        "price":"47,600€",
+        "img":"../img/sedans & wagons/2024 a4 allroad quattro.png",
+        "qty": 1
+    },
+    {
+        "id": 31,
+        "model": "2024 Audi S4 Sedan",
+        "bodystyle": "Sedans & Wagons",
+        "price":"54,500€",
+        "img":"../img/sedans & wagons/2024 s4 serdan.png",
+        "qty": 1
+    },
+    {
+        "id": 32,
+        "model": "2024 Audi A6 Sedan",
+        "bodystyle": "Sedans & Wagons",
+        "price":"58,100€",
+        "img":"../img/sedans & wagons/2024 a6 sedan.png",
+        "qty": 1
+    },
+    {
+        "id": 33,
+        "model": "2024 Audi S6 Sedan",
+        "bodystyle": "Sedans & Wagons",
+        "price":"75,500€",
+        "img":"../img/sedans & wagons/2024 s6 sedan.png",
+        "qty": 1
+    },
+    {
+        "id": 34,
+        "model": "2024 Audi A6 allroad® quattro®",
+        "bodystyle": "Sedans & Wagons",
+        "price":"69,300€",
+        "img":"../img/sedans & wagons/2024 a6 allroad quattro.png",
+        "qty": 1
+    },
+    {
+        "id": 35,
+        "model": "2024 Audi R6 Avant",
+        "bodystyle": "Sedans & Wagons",
+        "price":"125,800€",
+        "img":"../img/sedans & wagons/2024 rs 6 avant.png",
+        "qty": 1
+    },
+    {
+        "id": 36,
+        "model": "2024 Audi A8",
+        "bodystyle": "Sedans & Wagons",
+        "price":"90,900€",
+        "img":"../img/sedans & wagons/2024 a8.png",
+        "qty": 1
+    },
+    {
+        "id": 37,
+        "model": "2024 Audi S8",
+        "bodystyle": "Sedans & Wagons",
+        "price":"123,400",
+        "img": "../img/sedans & wagons/2024 s8.png",
+        "qty": 1
+    },
+    {
+        "id": 38,
+        "model": "2024 Audi Q4 Sportback e-tron®",
+        "bodystyle": "Sportbacks",
+        "price":"58,200€",
+        "img":"../img/sportbacks/2024 q4 sportback etron.png",
+        "qty": 1
+    },
+    {
+        "id": 39,
+        "model": "2024 Audi Q8 Sportback e-tron®",
+        "bodystyle": "Sportbacks",
+        "price":"77,800€",
+        "img":"../img/sportbacks/2024 q8 sportback etron.png",
+        "qty": 1
+    },
+    {
+        "id": 40,
+        "model": "2024 Audi Q5 Sportback",
+        "bodystyle": "Sportbacks",
+        "price":"52,200€",
+        "img":"../img/sportbacks/q5 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 41,
+        "model": "2024 Audi SQ5 Sportback",
+        "bodystyle": "Sportbacks",
+        "price":"61,1000€",
+        "img":"../img/sportbacks/2024 sq5 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 42,
+        "model": "2024 Audi A5 Sportback",
+        "bodystyle": "Sportbacks",
+        "price":"46,200€",
+        "img":"../img/sportbacks/2024 a5 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 43,
+        "model": "2024 Audi S5 Sportback®",
+        "bodystyle": "Sportbacks",
+        "price":"57,500€",
+        "img":"../img/sportbacks/2024 s5 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 44,
+        "model": "2024 Audi RS 5 Sportback",
+        "bodystyle": "Sportbacks",
+        "price":"58,200€",
+        "img":"../img/sportbacks/2024 rs5 sprtback.png",
+        "qty": 1
+    },
+    {
+        "id": 45,
+        "model": "2024 Audi A7",
+        "bodystyle": "Sportbacks",
+        "price":"72,000€",
+        "img":"../img/sportbacks/a7 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 46,
+        "model": "2024 Audi S7",
+        "bodystyle": "Sportbacks",
+        "price":"85,300€",
+        "img":"../img/sportbacks/2024 s7.png",
+        "qty": 1
+    },
+    {
+        "id": 47,
+        "model": "2024 Audi RS 7",
+        "bodystyle": "Sportbacks",
+        "price":"127,800€",
+        "img":"../img/sportbacks/2024 rs7.png",
+        "qty": 1
+    },
+    {
+        "id": 48,
+        "model": "2024 Audi A5 Coupe", 
+        "bodystyle": "Coupes & Convertibles",
+        "price":"48,400€",
+        "img":"../img/coupe & convertibles/2024 a5 coupe.png",
+        "qty": 1
+    },
+    {
+        "id": 49,
+        "model": "2024 Audi S5 Coupe",
+        "bodystyle": "Coupes & Convertibles",
+        "price":"57,500€",
+        "img":"../img/coupe & convertibles/2024 s5 coupe.png",
+        "qty": 1
+    },
+    {
+        "id": 50,
+        "model": "2024 Audi RS 5 Coupe",
+        "bodystyle": "Coupes & Convertibles",
+        "price":"79,600€",
+        "img":"../img/coupe & convertibles/2024 rs5 coupe.png",
+        "qty": 1
+    },
+    {
+        "id": 51,
+        "model": "2024 Audi A5 Cabriolet",
+        "bodystyle": "Coupes & Convertibles",
+        "price":"55,600€",
+        "img":"../img/coupe & convertibles/2024 a5 cabriolet.png",
+        "qty": 1
+    },
+    {
+        "id": 52,
+        "model": "2024 Audi S5 Cabriolet",
+        "bodystyle": "Coupes & Convertibles",
+        "price":"-",
+        "img":"../img/coupe & convertibles/2024 s5 cabriolet.png",
+        "qty": 1
+    },
+    {
+        "id": 53,
+        "model": "2024 Audi TT Heritage",
+        "bodystyle": "Coupes & Convertibles",
+        "price":"-",
+        "img":"../img/coupe & convertibles/tt heritage.png",
+        "qty": 1
+    },
+    {
+        "id": 54,
+        "model": "2024 Audi R8 Heritage",
+        "bodystyle": "Coupes & Convertibles",
+        "price":"-",
+        "img":"../img/coupe & convertibles/r8 heritage.png",
+        "qty": 1
+    },
+    {
+        "id": 55,
+        "model": "2024 Audi RS e-tron® GT",
+        "bodystyle": "Audi Sport",
+        "price":"147,100€",
+        "img":"../img/audi sport/2024 rs etron gt.png",
+        "qty": 1
+    },
+    {
+        "id": 56,
+        "model": "2024 Audi RS Q8",
+        "bodystyle": "Audi Sport",
+        "price":"125,800€",
+        "img":"../img/audi sport/2024 rs q8.png",
+        "qty": 1
+    },
+    {
+        "id": 57,
+        "model": "2024 Audi RS 3",
+        "bodystyle": "Audi Sport",
+        "price":"62,300€",
+        "img":"../img/audi sport/2024 rs3.png",
+        "qty": 1
+    },
+    {
+        "id": 58,
+        "model": "2024 Audi RS 5 Coupe",
+        "bodystyle": "Audi Sport",
+        "price":"79,600€",
+        "img":"../img/audi sport/2024 rs5 coupe.png",
+        "qty": 1
+    },
+    {
+        "id": 59,
+        "model": "2024 Audi RS 5 Sportback",
+        "bodystyle": "Audi Sport",
+        "price":"79,900€",
+        "img":"../img/audi sport/2024 rs5 sportback.png",
+        "qty": 1
+    },
+    {
+        "id": 60,
+        "model": "2024 Audi RS 6 Avant",
+        "bodystyle": "Audi Sport",
+        "price":"125,800€",
+        "img":"../img/audi sport/2024 rs6 avant.png",
+        "qty": 1
+    },
+    {
+        "id": 61,
+        "model": "2024 Audi RS 7",
+        "bodystyle": "Audi Sport",
+        "price":"127,800€",
+        "img":"../img/audi sport/2024 rs7.png",
+        "qty": 1
+    },
+    {
+        "id": 62,
+        "model": "2024 Audi R8 Heritage",
+        "bodystyle": "Audi Sport",
+        "price":"-",
+        "img":"../img/audi sport/r8 heritahe.png",
+        "qty": 1
+    }
+]

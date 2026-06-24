@@ -1,0 +1,362 @@
+*, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	font-family: "Chakra Petch", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	  
+}
+
+.container {
+    width: 1400px;
+    margin: auto;
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+	  margin-right: 940px;
+}
+
+.logo {
+	margin-right: auto;
+  margin-bottom: 15px;
+}
+
+.nav-navigation {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    list-style: none;
+}
+
+.nav-navigation li a {
+    font-size: 24px;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+	justify-content: center;
+	align-items: center;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper {
+	width: 100%;
+	height: 1000px;
+  }
+  
+  .swiper-wrapper {
+	height: 100%;
+  }
+  
+  .swiper-slide {
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+  }
+  
+  .slide_1 {
+	background-color: #ff7f50;
+
+  h2{
+   position: absolute;
+   display: block;
+   top: 50%; 
+   left: 46%; 
+   background-color: transparent; 
+   color: #fff; 
+   padding: 10px 20px; 
+   font-size: 20px; 
+   text-align: center;
+   backdrop-filter: blur(10px) saturate(70%);
+  }
+
+  p {
+    position: absolute;
+    display: block;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background-color: transparent; 
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align: center;
+    backdrop-filter: blur(10px) saturate(70%);
+   }
+  }
+  
+  .slide_2 {
+    h2{
+      position: absolute;
+      display: block;
+      top: 50%; 
+      left: 46%; 
+      background-color: transparent; 
+      color: #fff; 
+      padding: 10px 20px; 
+      font-size: 20px; 
+      text-align: center;
+      backdrop-filter: blur(10px) saturate(70%);
+     }
+   
+     p {
+       position: absolute;
+       display: block;
+       top: 50%; 
+       left: 50%; 
+       transform: translate(-50%, -50%); 
+       background-color: transparent; 
+       color: #fff; 
+       padding: 10px 20px; 
+       font-size: 20px; 
+       text-align: center;
+       backdrop-filter: blur(10px) saturate(70%);
+      }
+  }
+  
+  .slide_3 {
+    h2{
+      position: absolute;
+      display: block;
+      top: 50%; 
+      left: 46%; 
+      background-color: transparent; 
+      color: #fff; 
+      padding: 10px 20px; 
+      font-size: 20px; 
+      text-align: center;
+      backdrop-filter: blur(10px) saturate(70%);
+     }
+   
+     p {
+       position: absolute;
+       display: block;
+       top: 50%; 
+       left: 50%; 
+       transform: translate(-50%, -50%); 
+       background-color: transparent; 
+       color: #fff; 
+       padding: 10px 20px; 
+       font-size: 20px; 
+       text-align: center;
+       backdrop-filter: blur(10px) saturate(70%);
+      }
+  }
+  
+  .swiper-slide img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+  }
+  
+  .swiper-scrollbar {
+	height: 8px;
+	background: #fff;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+  }
+
+
+.container {
+  margin: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+}
+
+
+
+.card {
+  box-sizing: border-box;
+  width: 30%;
+  margin: 0 1% 20px 1%;
+  padding: 16px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.card h2 {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.card p {
+  font-size: 14px;
+  color: #666;
+  margin: 0;
+}
+
+.card a {
+  display: block;
+  width: 100%;
+  color: black;
+  padding: 14px 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: 0.3s;
+  /* background-color: #666; */
+}
+
+.card span {
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+
+}
+
+		.card:hover {
+			box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+		}
+
+    @media (max-width: 1400px) {
+      .swiper {
+        max-width: 100%;
+      }
+    }
+
+    @media (min-width: 54px) {
+      .swiper {
+        min-width: 100%;
+      }
+    }
+
+    @media (max-width: 1400px) {
+      .card {
+        max-width: 100%;
+      }
+    }
+
+    
+    footer {
+      
+      background-color: #333;
+      color: #fff;
+      padding: 2rem;
+  }
+  
+  .footer-container {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+  }
+  
+  .footer-column {
+      flex: 1;
+      margin-right: 2rem;
+  }
+  
+  .footer-column:last-child {
+      margin-right: 0;
+  }
+  
+  .footer-column h3 {
+      margin-bottom: 1rem;
+  }
+  
+  .footer-column ul {
+      list-style-type: none;
+      padding: 0;
+  }
+  
+  .footer-column ul li a {
+      color: #fff;
+      text-decoration: none;
+      display: block;
+      padding: 0.5rem 0;
+  }
+  
+.footer-column:hover li a {
+  text-decoration: underline;
+}
+
+  .copyright {
+      text-align: center;
+      padding: 1rem 0;
+      background-color: #222;
+      margin-top: 2rem;
+  }
+
+
+  .gallery {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card__2 {
+    width: 45%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.card__2 h2 {
+    margin-top: 0;
+}
+
+.card__2 button {
+    background-color: lightgray;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.card__2 button:hover {
+    background-color: gray;
+}
+
+.card__2 img {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 640px) {
+  .card {
+    flex: 1 0 32%;
+  }
+}
+
+@media (min-width: 910px) {
+  .card {
+    flex: 1 0 24%;
+  }
+}
